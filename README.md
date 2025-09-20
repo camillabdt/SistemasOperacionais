@@ -1,7 +1,11 @@
 # 🖥️ SO Scheduler Playground — FIFO & Round Robin
 
 
-<https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh2cmtyY3owOGh6YWtoYTBjejU5MmJxc2h5dHFuanM5a21jZ2UyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qu8EXhxJVvDMAsOwAS/giphy.gif>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh2cmtyY3owOGh6YWtoYTBjejU5MmJxc2h5dHFuanM5a21jZ2UyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qu8EXhxJVvDMAsOwAS/giphy.gif" 
+       width="220" alt="SO Gif" />
+</p>
+
 
 [![Made with React](https://img.shields.io/badge/React-18-blue?logo=react)](https://react.dev/) 
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38bdf8?logo=tailwindcss)](https://tailwindcss.com/) 
