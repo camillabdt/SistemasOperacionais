@@ -1,5 +1,8 @@
 # 🖥️ SO Scheduler Playground — FIFO & Round Robin
 
+
+<https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh2cmtyY3owOGh6YWtoYTBjejU5MmJxc2h5dHFuanM5a21jZ2UyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qu8EXhxJVvDMAsOwAS/giphy.gif>
+
 [![Made with React](https://img.shields.io/badge/React-18-blue?logo=react)](https://react.dev/) 
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38bdf8?logo=tailwindcss)](https://tailwindcss.com/) 
 [![Vite](https://img.shields.io/badge/Vite-7-purple?logo=vite)](https://vite.dev/) 
@@ -38,10 +41,10 @@ em **Sistemas Operacionais**, com suporte a:
 git clone https://github.com/seu-usuario/scheduler-playground.git
 cd scheduler-playground
 
- 2) Instalar dependências
+### 2) Instalar dependências
 npm install
 
-3) Rodar em modo desenvolvimento
+### 3) Rodar em modo desenvolvimento
 npm run dev
 
 O Vite irá abrir em http://localhost:5173/
@@ -64,10 +67,6 @@ scheduler-playground/
 
 📖 Conteúdo educacional
 Este projeto foi feito para fins didáticos, em apoio ao estudo de Sistemas Operacionais.
-
-🎨 Figurinha temática
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z5NGYycHZuc3o1NTh4em5laDA2cTg0c3V0N2tudmV2cWN2Z3lpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wpoLqr5FT1sY0/giphy.gif" width="220" alt="SO gif" />
-
 
 📜 Licença
 Sinta-se livre para usar, modificar e compartilhar! 🤝
